@@ -2,14 +2,14 @@
 
 ## Project ideas
 
-| Assignment name     | Language          | Description                                                |
-| ------------------- | ----------------- | ---------------------------------------------------------- |
-| freeze              | shell             | Generate screenshots of source code (introductory example) |
-| gitleaks            | shell             | Scan for accidentally committed credentials                |
-| bbot                | shell, python     | Internet security scanner                                  |
-| pa11y               | shell, javascript | Webpage accessibility tester                               |
-| percollate          | shell, javascript | Generate PDFs, HTMLs and epub from webpages                |
-| custom              | any               | Different idea? Finished side project? Let's talk!         |
+| Assignment name            | Language          | Description                                                |
+| -------------------------- | ----------------- | ---------------------------------------------------------- |
+| [freeze](./freeze)         | shell             | Generate screenshots of source code (introductory example) |
+| [gitleaks](./gitleaks)     | shell             | Scan for accidentally committed credentials                |
+| [bbot](./bbot)             | shell, python     | Internet security scanner                                  |
+| [pa11y](./pa11y)           | shell, javascript | Webpage accessibility tester                               |
+| [percollate](./percollate) | shell, javascript | Generate PDFs, HTMLs and epub from webpages                |
+| custom                     | any               | Different idea? Finished side project? Let's talk!         |
 
 ## Code of conduct
 
